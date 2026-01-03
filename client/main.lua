@@ -4,7 +4,7 @@
 --========================================================--
 
 if not Config then
-    print("^1[plenix-bunkers]^7 ERROR: Config is nil. Did config.lua load?")
+    print("^1[plenix-fivem-bunkers]^7 ERROR: Config is nil. Did config.lua load?")
     return
 end
 
