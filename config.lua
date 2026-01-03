@@ -1,6 +1,6 @@
 -- config.lua
 --========================================================--
---  Plenix Bunkers - Configuration
+--  Plenix FiveM Bunkers - Configuration
 --========================================================--
 
 Config = {
